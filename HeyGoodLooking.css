@@ -6,3 +6,9 @@ body {
 	font-family: "Comic Sans MS";
 
 }
+
+img.one{
+	padding: 1px;
+	border: 1px #a561fd;
+	background-color: #38ee27;
+}

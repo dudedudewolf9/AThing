@@ -1,7 +1,6 @@
 body {
 	background-color: #e545ab;
 	color: #00ff00;
-	text-align: center;
 	padding: 25px;
 	font-family: "Comic Sans MS";
 
@@ -15,13 +14,21 @@ img.one{
 ul.two{
 	background: purple;
 	float: right;
-	height: 44%;
-	width: 44%;
+	height: 33%;
+	width: 33%;
 }
 
 ul.one{
 	background: yellow;
 	float: left;
-	height: 44%;
-	width: 44%;
+	height: 33%;
+	width: 33%;
+}
+
+h2{
+	text-align: center;
+}
+	
+h3{
+	text-align: center;
 }

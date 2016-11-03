@@ -32,3 +32,12 @@ h2{
 h3{
 	text-align: center;
 }
+
+p.one{
+      position: fixed;
+      background-color: #e545ab;
+      color: #00ff00;
+      bottom: 50px;
+      left: 50px;
+      font-size: 26px
+      }

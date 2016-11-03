@@ -39,5 +39,9 @@ p.one{
       color: #00ff00;
       bottom: 50px;
       left: 50px;
-      font-size: 26px
+      font-size: 26px;
       }
+
+div.one{
+	position: bottom;
+}

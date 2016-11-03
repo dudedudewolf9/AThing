@@ -15,13 +15,13 @@ img.one{
 ul.two{
 	background: purple;
 	float: right;
-	height: 50%;
-	width: 50%;
+	height: 44%;
+	width: 44%;
 }
 
 ul.one{
 	background: yellow;
 	float: left;
-	height: 50%;
-	width: 50%;
+	height: 44%;
+	width: 44%;
 }

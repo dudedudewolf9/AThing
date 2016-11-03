@@ -1,7 +1,6 @@
 body {
 	background-color: #e545ab;
 	color: #00ff00;
-	text-align: center;
 	padding: 25px;
 	font-family: "Comic Sans MS";
 
@@ -11,4 +10,15 @@ img.one{
 	padding: 1px;
 	border: 10px #a561fd;
 }
-
+h3.two{
+	background: purple;
+	float: right;
+	height: 50%;
+	width: 50%;
+}
+h2.one{
+	background: yellow;
+	float: right;
+	height: 50%;
+	width: 50%;
+}

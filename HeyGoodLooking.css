@@ -3,7 +3,7 @@ body {
 	color: #00ff00;
 	padding: 25px;
 	font-family: "Comic Sans MS";
-
+	text-align: center;
 }
 
 img.one{
@@ -45,3 +45,4 @@ p.one{
 div.one{
 	position: bottom;
 }
+

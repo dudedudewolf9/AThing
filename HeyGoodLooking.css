@@ -45,3 +45,7 @@ p.one{
 div.one{
 	position: bottom;
 }
+
+div.two{
+	text-align: center;
+}
